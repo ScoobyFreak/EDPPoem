@@ -1,3 +1,3 @@
 # edpPoem
-Learning Git
+Learning Git\n
 this is a lot of fun
