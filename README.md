@@ -1,3 +1,5 @@
 # edpPoem
-Learning Git\n
-this is a lot of fun
+Learning Git 
+
+
+This is a lot of fun
